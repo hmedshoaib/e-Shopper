@@ -1,0 +1,549 @@
+{
+  "maincategory": [
+    {
+      "id": 1,
+      "name": "Male"
+    },
+    {
+      "id": 2,
+      "name": "Female"
+    },
+    {
+      "id": 3,
+      "name": "Kids"
+    }
+  ],
+  "subcategory": [
+    {
+      "name": "Zeans",
+      "id": 1
+    },
+    {
+      "name": "Hejab",
+      "id": 2
+    },
+    {
+      "name": "Kurta",
+      "id": 3
+    },
+    {
+      "name": "T-Shirts",
+      "id": 4
+    },
+    {
+      "name": "Dhoti",
+      "id": 5
+    },
+    {
+      "name": "Shirt",
+      "id": 6
+    },
+    {
+      "name": "Formal Shirts",
+      "id": 7
+    },
+    {
+      "name": "wedding-grooms",
+      "id": 10
+    },
+    {
+      "name": "Trouser",
+      "id": 11
+    }
+  ],
+  "brand": [
+    {
+      "name": "zara",
+      "id": 1
+    },
+    {
+      "name": "Lee",
+      "id": 2
+    },
+    {
+      "name": "Nike",
+      "id": 3
+    },
+    {
+      "name": "sparky",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "Adidas"
+    }
+  ],
+  "product": [
+    {
+      "id": 1,
+      "name": "Kids Zeans Slim Fit",
+      "maincategory": "Kids",
+      "subcategory": "Zeans",
+      "brand": "sparky",
+      "color": "grey",
+      "size": "28",
+      "baseprice": 2000,
+      "discount": 12,
+      "finalprice": 1760,
+      "stock": "In Stock",
+      "description": "This is sample product",
+      "pic1": "pic_ (10).jpg",
+      "pic2": "pic_ (48).jpg",
+      "pic3": "images (17).jpg",
+      "pic4": "images (27).jpg"
+    },
+    {
+      "id": 2,
+      "name": "kids slim fit zeans",
+      "maincategory": "Kids",
+      "subcategory": "Zeans",
+      "brand": "Nike",
+      "color": "white",
+      "size": "28",
+      "baseprice": 1200,
+      "discount": 10,
+      "finalprice": 1080,
+      "stock": "In Stock",
+      "description": "This is sample product",
+      "pic1": "pic_ (37).jpg",
+      "pic2": "download (5).jpg",
+      "pic3": "download (6).jpg",
+      "pic4": "images (11).jpg"
+    },
+    {
+      "id": 3,
+      "name": "Groom,Bride-Grrom",
+      "maincategory": "Male",
+      "subcategory": "wedding-grooms",
+      "brand": "sparky",
+      "color": "Black",
+      "size": "xxl",
+      "baseprice": 12000,
+      "discount": 12,
+      "finalprice": 10560,
+      "stock": "In Stock",
+      "description": "This is sample product",
+      "pic1": "groom (2).jpg",
+      "pic2": "groom (12).jpg",
+      "pic3": "download (25).jpg",
+      "pic4": "download (24).jpg"
+    },
+    {
+      "id": 4,
+      "name": "Male Zeans Slim Fit Zara",
+      "maincategory": "Male",
+      "subcategory": "Zeans",
+      "brand": "zara",
+      "color": "Blue",
+      "size": "32",
+      "baseprice": 3000,
+      "discount": 15,
+      "finalprice": 2550,
+      "stock": "In Stock",
+      "description": "This is sample product",
+      "pic1": "pic_ (29).jpg",
+      "pic2": "pic_ (47).jpg",
+      "pic3": "pic_ (36).jpg",
+      "pic4": "pic_ (29).jpg"
+    },
+    {
+      "id": 5,
+      "name": "Male T-shirt",
+      "maincategory": "Male",
+      "subcategory": "T-Shirts",
+      "brand": "zara",
+      "color": "white",
+      "size": "S",
+      "baseprice": 1500,
+      "discount": 30,
+      "finalprice": 1050,
+      "stock": "In Stock",
+      "description": "This is sample product",
+      "pic1": "t-shirt (4).jpg",
+      "pic2": "t-shirt (1).jpg",
+      "pic3": "images (67).jpg",
+      "pic4": "t-shirt (3).jpg"
+    },
+    {
+      "id": 6,
+      "name": "female-T-Shirts",
+      "maincategory": "Female",
+      "subcategory": "T-Shirts",
+      "brand": "Lee",
+      "color": "yellow",
+      "size": "L",
+      "baseprice": 1300,
+      "discount": 12,
+      "finalprice": 1144,
+      "stock": "In Stock",
+      "description": "This is sample product",
+      "pic1": "female-t-shirts (2).jpg",
+      "pic2": "female-t-shirts (1).jpg",
+      "pic3": "female-t-shirts (4).jpg",
+      "pic4": "female-t-shirts (3).jpg"
+    },
+    {
+      "id": 7,
+      "name": "Groom,Bride-Grrom",
+      "maincategory": "Male",
+      "subcategory": "wedding-grooms",
+      "brand": "Nike",
+      "color": "white",
+      "size": "xxl",
+      "baseprice": 5000,
+      "discount": 12,
+      "finalprice": 4400,
+      "stock": "In Stock",
+      "description": "This is sample product",
+      "pic1": "groom (11).jpg",
+      "pic2": "groom (4).jpg",
+      "pic3": "download (26).jpg",
+      "pic4": "groom (8).jpg"
+    },
+    {
+      "id": 8,
+      "name": "Female-Trouser",
+      "maincategory": "Female",
+      "subcategory": "Trouser",
+      "brand": "Nike",
+      "color": "Black",
+      "size": "L",
+      "baseprice": 1000,
+      "discount": 43,
+      "finalprice": 570,
+      "stock": "In Stock",
+      "description": "This is sample product",
+      "pic1": "lower (3).jpg",
+      "pic2": "lower (2).jpg",
+      "pic3": "pic (4).jpg",
+      "pic4": "lower (1).jpg"
+    },
+    {
+      "id": 9,
+      "name": "female slim fit zeans",
+      "maincategory": "Female",
+      "subcategory": "Zeans",
+      "brand": "Adidas",
+      "color": "Black",
+      "size": "32",
+      "baseprice": 2500,
+      "discount": 25,
+      "finalprice": 1875,
+      "stock": "In Stock",
+      "description": "",
+      "pic1": "image_1.jpg",
+      "pic2": "images (76).jpg",
+      "pic3": "images (72).jpg",
+      "pic4": "images (86).jpg"
+    },
+    {
+      "id": 10,
+      "name": "Kis Narrow Zeans",
+      "maincategory": "Kids",
+      "subcategory": "Zeans",
+      "brand": "Adidas",
+      "color": "yellow",
+      "size": "S",
+      "baseprice": 2500,
+      "discount": 7,
+      "finalprice": 2325,
+      "stock": "In Stock",
+      "description": "",
+      "pic1": "pic_ (9).jpg",
+      "pic2": "pic_ (8).jpg",
+      "pic3": "pic_ (44).jpg",
+      "pic4": "pic_ (13).jpg"
+    }
+  ],
+  "user": [
+    {
+      "id": 0
+    },
+    {
+      "id": 1,
+      "name": "Yahya",
+      "username": "Ahmed",
+      "email": "ahmed@gmial.com",
+      "phone": "8804500780",
+      "password": "zxcv",
+      "addressline1": "House No: 4",
+      "addressline2": "Yunus Colony",
+      "addressline3": "Abgila",
+      "pin": "823003",
+      "city": "Gaya",
+      "state": "Bihar",
+      "pic": "WhatsApp Image 2023-06-05 at 6.40.00 PM.jpeg",
+      "role": "user"
+    },
+    {
+      "id": 2,
+      "name": "Ahmed",
+      "username": "Shoaib",
+      "email": "sa.shoaib786000@gmail.com",
+      "phone": "8804500780",
+      "password": "qwerty",
+      "addressline1": "House No: 4",
+      "addressline2": "Yunus Colony",
+      "addressline3": "Abgila Manpur",
+      "pin": "823001",
+      "city": "Gaya",
+      "state": "Bihar",
+      "pic": "pic_ (33).jpg",
+      "role": "admin"
+    },
+    {
+      "name": "Noman",
+      "username": "Noman",
+      "email": "noman@gmail.com",
+      "phone": "8804500780",
+      "password": "12345",
+      "addressline1": "",
+      "addressline2": "",
+      "addressline3": "",
+      "pic": "",
+      "city": "",
+      "state": "",
+      "role": "user",
+      "id": 3
+    }
+  ],
+  "cart": [
+    {
+      "id": 0
+    },
+    {
+      "productid": 7,
+      "userid": "1",
+      "name": "Groom,Bride-Grrom",
+      "color": "white",
+      "size": "xxl",
+      "price": 4400,
+      "qty": 1,
+      "total": 4400,
+      "pic": "groom (11).jpg",
+      "id": 1
+    }
+  ],
+  "wishlist": [
+    {
+      "product": 5,
+      "userid": "1",
+      "name": "Male T-shirt",
+      "color": "white",
+      "size": "S",
+      "price": 1050,
+      "pic": "images (65).jpg",
+      "id": 8
+    },
+    {
+      "product": 4,
+      "userid": "1",
+      "name": "Male Zeans Slim Fit Zara",
+      "color": "Blue",
+      "size": "32",
+      "price": 2550,
+      "pic": "images (77).jpg",
+      "id": 9
+    },
+    {
+      "product": 6,
+      "userid": "1",
+      "name": "female-T-Shirts",
+      "color": "yellow",
+      "size": "L",
+      "price": 1144,
+      "pic": "download (31).jpg",
+      "id": 10
+    },
+    {
+      "product": 7,
+      "userid": "1",
+      "name": "Groom,Bride-Grrom",
+      "color": "white",
+      "size": "xxl",
+      "price": 4400,
+      "pic": "download (22).jpg",
+      "id": 11
+    }
+  ],
+  "checkout": [
+    {
+      "userid": "1",
+      "paymentmode": "COD",
+      "orderstatus": "Delivered",
+      "paymentstatus": "Done",
+      "time": "2023-07-22T16:04:11.685Z",
+      "totalAmount": 14429,
+      "setshippingAmount": 0,
+      "finalAmount": 14429,
+      "products": [
+        {
+          "productid": 6,
+          "userid": "1",
+          "name": "female-T-Shirts",
+          "color": "yellow",
+          "size": "L",
+          "price": 1144,
+          "qty": 1,
+          "total": 1144,
+          "pic": "download (31).jpg",
+          "id": 7
+        }
+      ],
+      "id": 1
+    },
+    {
+      "userid": "1",
+      "paymentmode": "COD",
+      "orderstatus": "Delivered",
+      "paymentstatus": "Done",
+      "time": "2023-07-23T07:07:12.513Z",
+      "totalAmount": 14429,
+      "shippingAmount": 0,
+      "finalAmount": 14429,
+      "products": [
+        {
+          "productid": 6,
+          "userid": "1",
+          "name": "female-T-Shirts",
+          "color": "yellow",
+          "size": "L",
+          "price": 1144,
+          "qty": 1,
+          "total": 1144,
+          "pic": "download (31).jpg",
+          "id": 7
+        },
+        {
+          "productid": 5,
+          "userid": "1",
+          "name": "Male T-shirt",
+          "color": "white",
+          "size": "S",
+          "price": 1050,
+          "qty": 1,
+          "total": 1050,
+          "pic": "images (65).jpg",
+          "id": 19
+        }
+      ],
+      "id": 2
+    },
+    {
+      "userid": "1",
+      "paymentmode": "COD",
+      "orderstatus": "Delivered",
+      "paymentstatus": "Done",
+      "time": "2023-07-23T07:14:30.688Z",
+      "totalAmount": 1760,
+      "shippingAmount": 0,
+      "finalAmount": 1760,
+      "products": [
+        {
+          "productid": 1,
+          "userid": "1",
+          "name": "Kids Zeans Slim Fit",
+          "color": "grey",
+          "size": "28",
+          "price": 1760,
+          "qty": 1,
+          "total": 1760,
+          "pic": "download (9).jpg",
+          "id": 1
+        }
+      ],
+      "id": 5
+    },
+    {
+      "userid": "1",
+      "paymentmode": "COD",
+      "orderstatus": "Ready To Ship",
+      "paymentstatus": "Pending",
+      "time": "2023-07-26T17:30:28.228Z",
+      "totalAmount": 1050,
+      "shippingAmount": 0,
+      "finalAmount": 1050,
+      "products": [
+        {
+          "productid": 5,
+          "userid": "1",
+          "name": "Male T-shirt",
+          "color": "white",
+          "size": "S",
+          "price": 1050,
+          "qty": 1,
+          "total": 1050,
+          "pic": "t-shirt (4).jpg",
+          "id": 1
+        }
+      ],
+      "id": 6
+    }
+  ],
+  "contact": [
+    {
+      "id": 0
+    },
+    {
+      "name": "Abc",
+      "email": "yahmed@gmial.com",
+      "phone": "9931795303",
+      "subject": "Test",
+      "message": "dfweuwehdhahdad",
+      "status": "Done",
+      "time": "2023-07-24T15:03:09.749Z",
+      "id": 10
+    },
+    {
+      "name": "Abc",
+      "email": "yahmed@gmial.com",
+      "phone": "9931795303",
+      "subject": "Test",
+      "message": "dfweuwehdhahdad",
+      "status": "Active",
+      "time": "2023-07-24T15:03:10.078Z",
+      "id": 11
+    },
+    {
+      "name": "Abc",
+      "email": "yahmed@gmial.com",
+      "phone": "9931795303",
+      "subject": "Test",
+      "message": "dfweuwehdhahdad",
+      "status": "Active",
+      "time": "2023-07-24T15:03:10.293Z",
+      "id": 12
+    },
+    {
+      "name": "Abc",
+      "email": "yahmed@gmial.com",
+      "phone": "9931795303",
+      "subject": "Test",
+      "message": "dfweuwehdhahdad",
+      "status": "Active",
+      "time": "2023-07-24T15:03:10.644Z",
+      "id": 13
+    }
+  ],
+  "newslatter": [
+    {
+      "id": 0
+    },
+    {
+      "email": "sa.shoaib786000@gmail.com",
+      "id": 1
+    },
+    {
+      "email": "noman@gmail.com",
+      "id": 2
+    },
+    {
+      "email": "ahmed@gmial.com",
+      "id": 3
+    },
+    {
+      "email": "yahmed@gmial.com",
+      "id": 4
+    }
+  ]
+}

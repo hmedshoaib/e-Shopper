@@ -1,0 +1,12 @@
+.mytable{
+    width: 100%;
+    overflow: auto;
+}
+
+.mytable td,th{
+    border-bottom: 2px solid #f4f0f0;
+}
+
+.ion{
+    font-size: 30px;
+}
